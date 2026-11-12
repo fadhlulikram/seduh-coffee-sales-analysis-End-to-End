@@ -86,7 +86,7 @@ Dari **25.776 pesanan bersih**, sebanyak **23.971 pesanan `Completed` (13.373 pe
 
 ### 3. Efisiensi Iklan & Evaluasi Diskon (Q5–Q6)
 
-<a href="images/chart_google_search_roi.png"><img src="images/chart_google_search_roi.png" alt="Perbandingan Profit vs Spend per Channel Akuisisi" width="650"></a>
+<a href="images/chart_google_search_roi.png"><img src="images/chart_google_search_roi.png" alt="Perbandingan Profit vs Spend per Channel Akuisisi" width="550"></a>
 
 + **Hanya Google Search yang Balik Modal (2,11x):** Berdasarkan kohort pelanggan 2024–2025, rasio *profit-to-spend* **Google Search mencapai 2,11x** (Profit Rp295 jt vs Spend Rp140 jt), sedangkan **TikTok Ads hanya 0,47x** (Profit Rp143 jt vs Spend Rp301 jt).
 + **Diskon >10% Menggerus Profit per Order:**
@@ -129,12 +129,18 @@ Menggunakan titik acuan 1 Januari 2026 dengan pembagian skor 1–5 (kuintil untu
 
 ### 1. Skema Relasi Tabel (*Galaxy Schema*)
 
-<a href="Screenshot%202026-11-12%20233803.png"><img src="Screenshot%202026-11-12%20233803.png" alt="Data Model di Power BI" width="750"></a>
+<a href="images/relat.png"><img src="images/relat.png" alt="Data Model di Power BI" width="750"></a>
 
 + **`orders` (Fact Table)** terhubung *Many-to-One* (`*:1`) ke **`costumers`** (`customer_id`), **`products`** (`product_id`), dan **`Dim_Date`** (`order_date`).
 + **`Dim_Date`** & **`Dim_Channel`** menjadi tabel dimensi jembatan antara transaksi pelanggan dan **`marketing_spend`**, sedangkan **`Q7 3 Profit_per_Segmen`** memuat hasil agregasi segmen RFM dari Python.
 
-### 2. Rumus DAX Measures
+### 2. Tampilan Dashboard Power BI
+
+<a href="images/sales-dashboard-2024–2025.png"><img src="images/sales-dashboard-2024–2025.png" alt="Dashboard Power BI" width="750"></a>
+
+### 3. Rumus DAX Measures
+
+<a href="images/dashboard-infographic.png"><img src="images/dashboard-infographic.png" alt="Dashboard Infographic" width="750"></a>
 
 ```dax
 // 1. METRIK UTAMA (REVENUE, PROFIT & MARGIN)
