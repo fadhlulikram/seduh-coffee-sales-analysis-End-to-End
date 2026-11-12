@@ -137,6 +137,9 @@ Menggunakan titik acuan 1 Januari 2026 dengan pembagian skor 1–5 (kuintil untu
 ### 2. Tampilan Dashboard Power BI
 
 <a href="images/sales-dashboard-2024–2025.png"><img src="images/sales-dashboard-2024–2025.png" alt="Dashboard Power BI" width="750"></a>
++ **Revenue 2025 lebih tinggi di semua bulan dibanding 2024, puncak di akhir tahun.** Roasted Beans paling untung.
++ **Hanya Google Search** yang laba kotornya menutup biaya iklan (2,11x).
++ **Hibernating dan Potential Loyalist** mendominasi pelanggan, sehingga repeat order jadi prioritas.
 
 ### 3. Rumus DAX Measures
 
