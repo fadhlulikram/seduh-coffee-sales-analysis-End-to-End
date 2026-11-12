@@ -145,6 +145,7 @@ Menggunakan titik acuan 1 Januari 2026 dengan pembagian skor 1–5 (kuintil untu
 
 <a href="images/dashboard-infographic.png"><img src="images/dashboard-infographic.png" alt="Dashboard Infographic" width="750"></a>
 
+
 ```dax
 // 1. METRIK UTAMA (REVENUE, PROFIT & MARGIN)
 Revenue = 
