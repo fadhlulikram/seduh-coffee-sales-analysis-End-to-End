@@ -207,12 +207,12 @@ POAS = DIVIDE([Profit], [Total Spend])
 
 **1. Dorong Order Kedua & Win-Back Pelanggan**
 
-Berikan voucher pembelian kedua/paket bundling (berlaku 14–30 hari) untuk 4.029 Potential Loyalist (konversi 20%–30% berpotensi menambah revenue Rp182 juta – Rp274 juta), serta kirim pesan WhatsApp personal untuk mereaktivasi 682 pelanggan Can't Lose Them & At Risk (menjaga revenue historis Rp685 juta).
++ Berikan voucher pembelian kedua/paket bundling (berlaku 14–30 hari) untuk 4.029 Potential Loyalist (konversi 20%–30% berpotensi menambah revenue Rp182 juta – Rp274 juta), serta kirim pesan WhatsApp personal untuk mereaktivasi 682 pelanggan Can't Lose Them & At Risk (menjaga revenue historis Rp685 juta).
 
 **2. Realokasi 30% Budget TikTok Ads ke Google Search**
 
-Alihkan sekitar Rp90 juta anggaran iklan dari TikTok Ads ke Google Search secara bertahap tanpa menaikkan total budget pemasaran.
++ Alihkan sekitar Rp90 juta anggaran iklan dari TikTok Ads ke Google Search secara bertahap tanpa menaikkan total budget pemasaran.
 
 **3. Batasi Diskon Maksimal 10% & Siapkan Stok Musiman**
 
-Terapkan batas diskon 5%–10%, fokuskan bundling pada Roasted Beans, pertahankan Champions & Loyal Customers lewat program reward non-diskon, serta siapkan kampanye sebelum puncak Maret (Ramadan) dan Oktober–Desember.
++ Terapkan batas diskon 5%–10%, fokuskan bundling pada Roasted Beans, pertahankan Champions & Loyal Customers lewat program reward non-diskon, serta siapkan kampanye sebelum puncak Maret (Ramadan) dan Oktober–Desember.
