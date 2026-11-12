@@ -141,7 +141,7 @@ Menggunakan titik acuan 1 Januari 2026 dengan pembagian skor 1–5 (kuintil untu
 + **Hanya Google Search** yang laba kotornya menutup biaya iklan (2,11x).
 + **Hibernating dan Potential Loyalist** mendominasi pelanggan, sehingga repeat order jadi prioritas.
 
-### 3. Rumus DAX Measures
+### 3. DAX Measures
 
 <a href="images/dashboard-infographic.png"><img src="images/dashboard-infographic.png" alt="Dashboard Infographic" width="750"></a>
 
@@ -195,3 +195,10 @@ CALCULATE([Profit], costumers[signup_date] >= DATE(2024,1,1))
 Profit per Ad Spend = DIVIDE([Acquired Profit], [Total Spend])
 
 POAS = DIVIDE([Profit], [Total Spend])
+```
+
+# Kesimpulan & Rekomendasi Bisnis
+
+### Kesimpulan Utama:
++ **Pertumbuhan +26,34% di 2025 masih bergantung pada lonjakan biaya iklan (+63%)**, di mana hanya Google Search yang mencatat profit kotor di atas biaya iklan (2,11x vs TikTok Ads 0,47x).
++ **Sebanyak 62,4% pelanggan hanya belanja sekali**, sementara profit terbesar terkonsentrasi pada kategori Roasted Beans (56% profit).
