@@ -15,8 +15,8 @@ Evaluasi kinerja penjualan **Seduh Coffee** (merek kopi spesialti D2C Indonesia)
 5. **Interactive Dashboard (Power BI):** Membangun relasi tabel (*Data Model*), rumus DAX, dan visualisasi interaktif.
 
 **Link Penting:**
-+ **Slide Portofolio:** [`Fadhlul Ikram-Portofolio Project - Data Analyst (BNSP).pdf`](Fadhlul%20Ikram-Portofolio%20Project%20-%20Data%20Analyst%20(BNSP).pdf)
-+ **Notebook Cleaning & RFM:** [`Seduh_Coffee_Data_Cleaning.ipynb`](Seduh_Coffee_Data_Cleaning.ipynb) | [`RFM_Segmentasi_Pelanggan_STARTER (1).ipynb`](RFM_Segmentasi_Pelanggan_STARTER%20(1).ipynb)
++ **Slide Portofolio:** [`Fadhlul_Ikram-Portofolio-Project-Data_Analyst.pdf`](Slide%20Portofolio/Fadhlul_Ikram-Portofolio-Project-Data_Analyst.pdf)
++ **Notebook Cleaning & RFM:** [`Seduh_Coffee_Data_Cleaning.ipynb`](Notebook%20Cleaning%20&%20RFM/Seduh_Coffee_Data_Cleaning.ipynb) | [`RFM_Segmentasi_Pelanggan_STARTER (1).ipynb`](RFM_Segmentasi_Pelanggan_STARTER%20(1).ipynb)
 + **Query SQL & Dataset:** [`final.sql`](final.sql) | [`Seduh Coffee - Final Project.xlsx`](Seduh%20Coffee%20-%20Final%20Project.xlsx)
 
 ## **Daftar Isi**
